@@ -24,7 +24,11 @@ O objetivo é explorar possíveis relações entre interesse popular e fatores c
 4. **Integração dos Dados**
    - Junção entre a série temporal de buscas e o histórico de precipitação.
    - Preparação de dataset final para análises comparativas.
-
+     
+5. **Modelagem Preditiva**
+   - Foi treinado e testado um **modelo de Regressão Linear** para avaliar a relação entre o interesse em "palhetas" e os níveis de precipitação.
+   - O modelo escolhido foi a **Regressão Linear**, devido ao seu bom desempenho e interpretabilidade.
+  
 ---
 
 ## 🛠️ Tecnologias Utilizadas
